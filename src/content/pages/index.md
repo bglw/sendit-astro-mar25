@@ -11,7 +11,7 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: home/hero
-    title: Beautiful email campaigns
+    title: Beautiful
     description: >-
       With Sendit, you can quickly create beautiful rich emails that capture a
       reader's attention, engage them, and convert them into customers.
@@ -20,6 +20,16 @@ content_blocks:
     button:
       text: Try This Free
       link: /signup/
+  - _bookshop_name: global/faq
+    title: Have
+    title_suffix: Questions?
+    description: >-
+      We believe that a good email marketing strategy is the key to growth. So
+      we’re helping you grow your business with tools and resources that make
+      email marketing easy.
+    FAQ:
+      - title: What if I unplug all selected apps at once?
+        description: Lorem ipsum.
   - _bookshop_name: global/counter
     title: Scale your
     title_suffix: Business
@@ -49,12 +59,12 @@ content_blocks:
     image_alt: Thumbnail for video
     video_url: https://vimeo.com/45830194
   - _bookshop_name: global/header
-    title: "Sendit "
+    title: 'Sendit '
     title_suffix: Features
-    remove_top_padding: true
     description: >-
       Our platform offers the most advanced features including automated email
       content creation, dynamic personalization, and customer segmentation.
+    remove_top_padding: true
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-one.png
     image_alt: Message inbox
