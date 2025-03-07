@@ -1,4 +1,5 @@
 ---
+_schema: default
 date: 2022-04-14T00:00:00Z
 title: 7 things you didn't know about email
 tags:
@@ -21,7 +22,6 @@ seo:
   no_index: false
 draft: false
 ---
-
 When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers' spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.
 
 ### Use an ESP
